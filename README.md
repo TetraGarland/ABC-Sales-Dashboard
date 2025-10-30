@@ -60,7 +60,7 @@ Total Target = SUM(Targets[Monthly Target])
 Revenue Target Achievement % = 
     DIVIDE([Total Revenue], [Total Target])
 
-###5. Dashboard Design**
+###5. **Dashboard Design**
 
 Main Page: High-level KPIs + navigation
 Year Pages (2017 | 2018 | 2019):
